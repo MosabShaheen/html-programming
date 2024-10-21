@@ -1,0 +1,58 @@
+body{
+    margin: auto;
+}
+.nav-text{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Inconsolata";
+    padding: 22px 157px;
+    text-transform: uppercase;
+    background-color: black;
+}
+.links-color{
+    color: white;
+    text-decoration: none;    
+}
+.nav-gap{
+    margin-right: 296px;
+}
+.section1-background{
+    background-image: url('https://www.w3schools.com/w3images/coffeehouse.jpg');
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 24px;
+}
+.main-heading{
+    font-family: "Inconsolata";
+    font-size: 90px;
+    font-weight: 400;
+    margin: auto;
+    padding: 0px 515px;
+    text-align: center;
+    padding-top: 85px;
+    margin-bottom: 105px;
+}
+.first-span{
+    background-color: black;
+    color: white;
+    font-family: "Inconsolata";
+    font-size: 15px;
+    
+    font-weight: 400;
+}
+.second-span{
+    color: white;
+    text-align: right;
+    padding-left: 1072px;
+}
+.second-heading{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 6px;
+    margin: 60px 540px;
+}

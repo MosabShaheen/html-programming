@@ -1,0 +1,20 @@
+a {
+    color: red;
+}
+.footer-link{
+    color: green;
+}
+.first-heading{
+     background-image: url("https://www.w3schools.com/w3images/coffeehouse.jpg");
+    color: red;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 100;
+    font-family: "Merriweather";
+}
+.nav-links{
+    background-color: black;
+    color: white;
+    font-family: "Inconsolata";
+    font-size: 15px;
+}
