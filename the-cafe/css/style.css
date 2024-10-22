@@ -5,7 +5,7 @@ body{
     font-size: 15px;
     font-weight: 400;
     font-family: "Inconsolata";
-    padding: 22px 157px;
+    padding: 22px 144px;
     text-transform: uppercase;
     background-color: black;
 }
@@ -43,7 +43,7 @@ body{
 .second-span{
     color: white;
     text-align: right;
-    padding-left: 1072px;
+    padding-left: 1050px;
 }
 .second-heading{
     background-color: black;
@@ -55,4 +55,21 @@ body{
     font-weight: 400;
     letter-spacing: 6px;
     margin: 60px 540px;
+}
+.para-1{
+    font-family: "Inconsolata";
+    padding-left: 322px;
+    line-height: 27px;
+    margin-top: 86px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.quote{
+    font-family: "Inconsolata";
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 0px 312px;
+    border-left: 10px solid #cccccc;
 }
